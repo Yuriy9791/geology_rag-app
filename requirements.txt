@@ -109,6 +109,7 @@ Pygments==2.18.0
 PyJWT==2.9.0
 PyMuPDF==1.24.13
 pyparsing==3.1.2
+pysqlite3-binary
 pypdf==5.1.0
 PyPDF2==3.0.1
 PyPika==0.48.9
