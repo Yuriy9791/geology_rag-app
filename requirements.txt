@@ -11,7 +11,8 @@ langchain-openai==0.2.10
 langchain-text-splitters==0.3.2
 langsmith==0.1.142
 lasio==0.31
-chromadb==0.5.18
+sqlite3>=3.35.0
+chromadb
 openai==1.55.3
 scikit-learn==1.4.2
 scipy==1.13.0
