@@ -1,0 +1,433 @@
+Age,Field,lat,lon,Depth_start,Depth_finish,Type,Name,Special_mark,Reference
+Carboniferous_Permian,Wudayhi,24.06,48.41,2.0,448.0,PHI,Well,"profile of the Unayazah reservoir, relative_depth","Ameen and Hailwook, 2008.PDF"
+Permian_Triassic,Ghawar,25.19,49.21,12100.0,12240.0,GR,Well18, ,Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA
+Permian_Triassic,Ghawar,25.19,49.21,12100.0,12240.0,DT,Well18, ,Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA
+Permian_Triassic,Ghawar,25.19,49.21,12100.0,12240.0,RHOB,Well18, ,Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA
+Paleogene,Wafra,28.58,47.93,0.0,558.0,RESS,WellB,artificial depth,"Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA, MING REN HONG"
+Paleogene,Wafra,28.58,47.93,0.0,558.0,PHI,WellB,artificial depth,"Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA, MING REN HONG"
+Paleogene,Wafra,28.58,47.93,0.0,558.0,SO,WellB,artificial depth,"Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA, MING REN HONG"
+Paleogene,Wafra,28.58,47.93,0.0,558.0,RESD,WellB,artificial depth,"Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA, MING REN HONG"
+Paleogene,Wafra,28.58,47.93,0.0,558.0,GR,WellB,artificial depth,"Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA, MING REN HONG"
+Paleogene,Wafra,28.58,47.93,0.0,558.0,PERM,WellB,artificial depth,"Reservoir characterization of Permian Khuff-C carbonate in the supergiant Ghawar Field of Saudi Arabia; SHIV N. DASGUPTA, MING REN HONG"
+Jurassic, ,22.77,53.88,9903.0,11288.0,GR,X, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,24.53,52.94,10589.0,11671.0,GR,P, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,23.87,51.85,10003.0,11339.0,GR,V, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,23.62,52.19,10852.0,11384.0,GR,W, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,23.51,53.38,11703.0,13094.0,GR,N, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,24.89,54.35,12455.0,13637.0,GR,G, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,25.09,53.55,1.0,997.0,GR,H,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.15,52.49,10603.0,11857.0,GR,U, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,25.06,53.37,1.0,997.0,GR,F,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.87,53.76,9606.0,10794.0,GR,K, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,23.28,54.23,10853.0,12269.0,GR,D, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,24.48,52.48,9870.0,10887.0,GR,S, ,Al-Suwaidi_et_al_2000_MEBIB13125
+Jurassic, ,28.91,47.81,11730.0,12148.0,GR,L, ,"Kadar and Keyser, GeoArabia, 2015"
+Jurassic, ,28.91,47.71,11850.0,12288.0,GR,J, ,"Kadar and Keyser, GeoArabia, 2015"
+Jurassic, ,25.09,53.55,1.0,997.0,NPHI,H,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,28.91,47.71,11850.0,12288.0,NPHI,J, ,"Kadar and Keyser, GeoArabia, 2015"
+Jurassic, ,25.06,53.37,1.0,997.0,NPHI,F,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,28.91,47.81,11730.0,12148.0,NPHI,L, ,"Kadar and Keyser, GeoArabia, 2015"
+Jurassic, ,25.06,53.37,1.0,997.0,RHOB,F,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.09,53.55,1.0,997.0,RHOB,H,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Cretaceous, ,22.63,52.97,6.0,2224.0,GR,6,artificial depth,"Cragie et al.,2015; Bromhead et al., 2021"
+Cretaceous, ,21.06,55.16,1.0,1588.0,GR,Ghafah-1,artificial depth, 
+Cretaceous, ,22.89,52.63,2.0,2052.0,GR,1,artificial depth,"Cragie et al.,2015; Bromhead et al., 2021"
+Cretaceous, ,22.72,54.13,39.0,917.0,GR,T,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,22.71,54.11,3.0,997.0,GR,I,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,22.63,54.06,1.0,996.0,GR,J,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,20.59,54.81,11.0,1539.0,GR,Hamidan-1,artificial depth, 
+Cretaceous, ,22.57,54.12,2.0,971.0,GR,O,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,20.59,54.81,11.0,1539.0,NPHI,Hamidan-1,artificial depth, 
+Cretaceous, ,21.06,55.16,1.0,1588.0,NPHI,Ghafah-1,artificial depth, 
+Cretaceous, ,22.89,52.63,2.0,2052.0,DT,1,artificial depth,"Cragie et al.,2015; Bromhead et al., 2021"
+Cretaceous, ,22.92,52.73,2.0,2176.0,DT,2,artificial depth,"Cragie et al.,2015; Bromhead et al., 2021"
+Cretaceous, ,22.92,52.73,2.0,2176.0,GR,2,artificial depth,"Cragie et al.,2015; Bromhead et al., 2021"
+Jurassic, ,30.11,47.71,15640.0,16078.0,GR,A, ,"Kadar and Keyser, GeoArabia, 2015"
+Jurassic, ,30.11,47.71,15640.0,16078.0,NPHI,A, ,"Kadar and Keyser, GeoArabia, 2015"
+Jurassic, ,25.06,53.37,1.0,997.0,SONIC,F,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.09,53.55,1.0,997.0,SONIC,H,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Permian_Triassic, ,25.16,49.29,12030.0,12158.0,PHI,WellB, , 
+Permian_Triassic, ,25.15,49.24,12100.0,12239.0,PHI,Well3, , 
+Permian_Triassic, ,25.16,49.29,5595.0,11248.0,RHOB,WellB, , 
+Permian_Triassic, ,25.15,49.24,6757.0,12316.0,RHOB,Well3, , 
+Cretaceous, ,22.52,54.05,15846.0,17341.0,GR,SHYB-KL, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,15661.0,17379.0,GR,SHYB-LG, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,16377.0,17994.0,GR,SHYB-LGL, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,14848.0,16604.0,GR,SHYB-LD, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,16128.0,17912.0,GR,SHYB-GSE, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,14848.0,16604.0,NPHI,SHYB-LD, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,15661.0,17379.0,NPHI,SHYB-LG, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,16377.0,17994.0,NPHI,SHYB-LGL, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,16128.0,17912.0,NPHI,SHYB-GSE, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,15846.0,17341.0,NPHI,SHYB-KL, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,15661.0,17379.0,RHOB,SHYB-LG, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,16377.0,17994.0,RHOB,SHYB-LGL, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,16128.0,17912.0,RHOB,SHYB-GSE, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,14848.0,16604.0,RHOB,SHYB-LD, ,"Davies et al., 2002"
+Cretaceous, ,22.52,54.05,15846.0,17341.0,RHOB,SHYB-KL, ,"Davies et al., 2002"
+Cretaceous, ,22.53,54.05,1.0,998.0,GR,F,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,22.41,53.97,1.0,998.0,GR,B,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,22.38,53.96,1.0,986.0,GR,R,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,22.39,53.99,1.0,980.0,GR,Q,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,22.37,53.97,2.0,998.0,GR,A,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,22.82,52.46,4.0,1793.0,GR,A,artificial depth,"Cragie et al.,2015; Bromhead et al., 2021"
+Cretaceous, ,22.84,52.49,3.0,1992.0,GR,B,artificial depth,"Cragie et al.,2015"
+Cretaceous, ,22.87,52.49,2.0,1897.0,GR,C,artificial depth,"Cragie et al.,2015"
+Cretaceous, ,22.93,52.56,2.0,2047.0,GR,D,artificial depth,"Cragie et al.,2015"
+Cretaceous, ,22.87,52.85,2.0,2098.0,GR,3,artificial depth,"Cragie et al.,2015"
+Cretaceous, ,22.79,52.94,1.0,2297.0,GR,4,artificial depth,"Cragie et al.,2015"
+Cretaceous, ,22.72,52.82,1.0,1997.0,GR,5,artificial depth,"Cragie et al.,2015"
+Cretaceous, ,22.17,39.11,1824.0,4429.0,GR,Jiddah-1, ,"Hughes and Johnson, 2005"
+Cretaceous, ,22.57,54.07,21.0,1198.0,GR,G,artificial depth,"Al-Ghamdi and Read, 2010"
+Cretaceous, ,22.49,54.05,1.0,941.0,GR,E,artificial depth,"Al-Ghamdi and Read, 2010"
+Cretaceous, ,22.47,53.99,1.0,798.0,GR,D,artificial depth,"Al-Ghamdi and Read, 2010"
+Cretaceous, ,22.43,53.99,2.0,847.0,GR,C,artificial depth, 
+Cretaceous, ,22.59,54.08,2.0,1266.0,GR,H,artificial depth,"Al-Ghamdi and Popo, 2014"
+Cretaceous, ,22.59,54.09,14.0,997.0,GR,L,artificial depth,"Al-Ghamdi and Read, 2010"
+Cretaceous, ,22.59,54.11,9.0,995.0,GR,M,artificial depth, 
+Cretaceous, ,22.59,54.12,5.0,996.0,GR,N,artificial depth, 
+Cretaceous, ,22.47,54.22,2.0,698.0,GR,N,artificial depth,"Al-Ghamdi and Read, 2010; Al-Ghamdi and Popo, 2014"
+Cretaceous, ,24.89,52.58,2.0,883.0,GR,Satah-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.89,52.58,2.0,883.0,SONIC,Satah-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.67,52.59,1.0,916.0,GR,Arzanah-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.67,52.59,1.0,916.0,SONIC,Arzanah-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.58,52.87,1.0,796.0,GR,Ghasha-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.58,52.87,1.0,796.0,SONIC,Ghasha-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.36,53.38,1.0,837.0,GR,Hail-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.36,53.38,1.0,837.0,SONIC,Hail-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.51,51.72,1.0,973.0,GR,Muhaiyimat-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.51,51.72,1.0,973.0,NPHI,Muhaiyimat-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.52,52.45,78.0,994.0,GR,Hair Dalma-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.52,52.45,78.0,994.0,NPHI,Hair Dalma-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.58,52.89,2.0,963.0,GR,Ghasha-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.58,52.89,2.0,963.0,NPHI,Ghasha-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.52,53.69,1.0,919.0,GR,Mubbaraz-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.52,53.69,1.0,919.0,NPHI,Mubbaraz-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.35,53.37,1.0,994.0,GR,Hail-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.35,53.37,1.0,994.0,NPHI,Hail-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.56,54.11,1.0,883.0,GR,Umm Al Dakh-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,24.56,54.11,1.0,883.0,NPHI,Umm Al Dakh-field,artificial depth,"Al-Sharhan and Scott, 2000"
+Cretaceous, ,22.75,54.63,6554.0,8102.0,GR,D, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,22.75,54.63,6554.0,8102.0,NPHI,D, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,22.75,54.63,6554.0,8102.0,RHOB,D, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,22.91,54.73,6562.0,8446.0,GR,E, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,22.91,54.73,6562.0,8446.0,NPHI,E, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,22.91,54.73,6562.0,8446.0,RHOB,E, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,22.95,54.85,6807.0,8797.0,GR,F, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,22.95,54.85,6807.0,8797.0,NPHI,F, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,22.95,54.85,6807.0,8797.0,RHOB,F, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,23.04,55.05,6656.0,8527.0,GR,G, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,23.04,55.05,6656.0,8527.0,NPHI,G, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,23.04,55.05,6656.0,8527.0,RHOB,G, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.39,54.23,9801.0,11514.0,GR,U, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.39,54.23,9801.0,11514.0,NPHI,U, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.39,54.23,9801.0,11514.0,RHOB,U, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.19,54.27,10401.0,12147.0,GR,S, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.19,54.27,10401.0,12147.0,NPHI,S, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.19,54.27,10401.0,12147.0,RHOB,S, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.06,54.53,10758.0,12345.0,GR,P, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.06,54.53,10758.0,12345.0,NPHI,P, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.06,54.53,10758.0,12345.0,RHOB,P, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.41,54.64,11356.0,13094.0,GR,V, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.41,54.64,11356.0,13094.0,NPHI,V, ,"Aziz and El-Sattar, 1997"
+Cretaceous, ,24.41,54.64,11356.0,13094.0,RHOB,V, ,"Aziz and El-Sattar, 1997"
+Jurassic, ,22.96,55.36,0.0,1000.0,GR,L-319-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.96,55.36,0.0,1000.0,NPHI,L-319-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.96,55.36,0.0,1000.0,RHOB,L-319-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.96,55.36,0.0,1000.0,SONIC,L-319-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.83,55.49,0.0,400.0,GR,DM-3-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.83,55.49,0.0,400.0,NPHI,DM-3-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.83,55.49,0.0,400.0,RHOB,DM-3-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.83,55.49,0.0,400.0,SONIC,DM-3-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.78,55.71,0.0,800.0,GR,MZON-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.78,55.71,0.0,800.0,NPHI,MZON-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.78,55.71,0.0,800.0,RHOB,MZON-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.54,56.01,0.0,750.0,GR,ARS-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.54,56.01,0.0,750.0,NPHI,ARS-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.54,56.01,0.0,750.0,RHOB,ARS-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.54,56.01,0.0,750.0,SONIC,ARS-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.36,56.51,0.0,600.0,GR,FSW-305-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.36,56.51,0.0,600.0,NPHI,FSW-305-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.36,56.51,0.0,600.0,RHOB,FSW-305-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.36,56.51,0.0,600.0,SONIC,FSW-305-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.48,56.71,0.0,600.0,GR,N-82-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.48,56.71,0.0,600.0,NPHI,N-82-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.48,56.71,0.0,600.0,RHOB,N-82-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.48,56.71,0.0,600.0,SONIC,N-82-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.61,57.27,0.0,500.0,GR,MMR-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.61,57.27,0.0,500.0,NPHI,MMR-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.61,57.27,0.0,500.0,RHOB,MMR-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.61,57.27,0.0,500.0,SONIC,MMR-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.42,57.52,0.0,400.0,GR,JMM-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.42,57.52,0.0,400.0,NPHI,JMM-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.42,57.52,0.0,400.0,RHOB,JMM-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.42,57.52,0.0,400.0,SONIC,JMM-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.39,57.69,0.0,300.0,GR,BQ-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.39,57.69,0.0,300.0,NPHI,BQ-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.39,57.69,0.0,300.0,SONIC,BQ-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.39,57.82,0.0,300.0,GR,SI-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.39,57.82,0.0,300.0,SONIC,SI-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.27,58.23,0.0,270.0,GR,JBM-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.27,58.23,0.0,270.0,NPHI,JBM-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.27,58.23,0.0,270.0,RHOB,JBM-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.27,58.23,0.0,270.0,SONIC,JBM-1-N-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.41,55.63,0.0,700.0,GR,MTL-1-S-Travers, ,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.41,55.63,0.0,700.0,NPHI,MTL-1-S-Travers, ,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.41,55.63,0.0,700.0,RHOB,MTL-1-S-Travers, ,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.12,56.13,0.0,600.0,GR,Y-440-S-Travers, ,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.12,56.13,0.0,600.0,NPHI,Y-440-S-Travers, ,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.12,56.13,0.0,600.0,RHOB,Y-440-S-Travers, ,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.12,56.13,0.0,600.0,SONIC,Y-440-S-Travers, ,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.06,56.23,0.0,400.0,GR,AH-48-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.06,56.23,0.0,400.0,NPHI,AH-48-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.06,56.23,0.0,400.0,SONIC,AH-48-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.01,56.28,0.0,400.0,GR,ABH-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.01,56.28,0.0,400.0,NPHI,ABH-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.01,56.28,0.0,400.0,RHOB,ABH-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,22.01,56.28,0.0,400.0,SONIC,ABH-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,21.31,56.27,0.0,450.0,GR,MBR-4-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,21.31,56.27,0.0,450.0,NPHI,MBR-4-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,21.31,56.27,0.0,450.0,RHOB,MBR-4-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,21.31,56.27,0.0,450.0,SONIC,MBR-4-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,21.05,56.53,0.0,350.0,GR,BK-5-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,21.05,56.53,0.0,350.0,NPHI,BK-5-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,21.05,56.53,0.0,350.0,RHOB,BK-5-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,21.05,56.53,0.0,350.0,SONIC,BK-5-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,20.79,56.79,0.0,270.0,GR,FA-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,20.79,56.79,0.0,270.0,RHOB,FA-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,20.71,57.21,0.0,270.0,GR,SH-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,20.71,57.21,0.0,270.0,NPHI,SH-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,20.71,57.21,0.0,270.0,RHOB,SH-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,20.71,57.21,0.0,270.0,SONIC,SH-1-S-Travers,artificial depth,"Rousseau and Dromart, Jurassic sequence in Interior Oman, GeoArabia, 2006"
+Jurassic, ,29.37,47.33,15701.0,16331.0,GR,I, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.37,47.33,15701.0,16331.0,NPHI,I, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.24,47.78,12281.0,13048.0,GR,M, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.24,47.78,12281.0,13048.0,NPHI,M, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.19,47.56,14440.0,15140.0,GR,N, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.19,47.56,14440.0,15140.0,NPHI,N, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,28.99,47.52,12926.0,13658.0,GR,P, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,28.99,47.52,12926.0,13658.0,NPHI,P, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,28.96,47.67,11540.0,12258.0,GR,Q, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,28.96,47.67,11540.0,12258.0,NPHI,Q, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.03,47.97,9601.0,12296.0,GR,V, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.03,47.97,9601.0,12296.0,NPHI,V, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.03,47.53,10904.0,13797.0,GR,Minagish-27, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.03,47.53,10904.0,13797.0,NPHI,Minagish-27, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.83,47.66,12901.0,15797.0,GR,X, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.83,47.66,12901.0,15797.0,NPHI,X, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.67,47.89,12601.0,15497.0,GR,Y, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.67,47.89,12601.0,15497.0,NPHI,Y, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.74,47.61,13501.0,16437.0,GR,F, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.74,47.61,13501.0,16437.0,NPHI,F, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.95,47.62,13201.0,16197.0,GR,Z, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.95,47.62,13201.0,16197.0,NPHI,Z, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.06,47.54,11138.0,13997.0,GR,O, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.06,47.54,11138.0,13997.0,NPHI,O, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.01,47.99,8550.0,11547.0,GR,R, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,29.01,47.99,8550.0,11547.0,NPHI,R, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,28.89,48.11,9750.0,12782.0,GR,T, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,28.89,48.11,9750.0,12782.0,NPHI,T, ,Kadar_et_al_2015_XURBB_585046_enclosure
+Jurassic, ,24.52,52.39,1.0,348.0,GR,E,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,24.13,52.47,1.0,497.0,GR,D,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,23.51,53.39,11.0,798.0,GR,C,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,22.84,53.87,8.0,846.0,GR,B,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,22.58,55.21,10.0,848.0,GR,A,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,24.57,52.91,3.0,498.0,GR,I,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,24.38,53.39,1.0,647.0,GR,H,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,24.04,53.67,1.0,947.0,GR,G,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,24.36,54.63,1.0,947.0,GR,F,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,26.22,50.14,1.0,442.0,GR,M,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,25.49,50.79,1.0,340.0,GR,L,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,25.43,50.81,1.0,288.0,GR,K,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,25.14,51.48,1.0,241.0,GR,J,"artificial depth, artificial values of GR","de Mastos, 1997"
+Jurassic, ,24.38,53.39,1.0,748.0,GR,H-A-f,"artificial depth, artificial values of GR, A-f - ARAEJ formation interval","de Mastos, 1997"
+Jurassic, ,24.04,53.67,2.0,822.0,GR,G-A-f,"artificial depth, artificial values of GR, A-f - ARAEJ formation interval","de Mastos, 1997"
+Jurassic, ,23.51,53.39,1.0,786.0,GR,C-A-f,"artificial depth, artificial values of GR, A-f - ARAEJ formation interval","de Mastos, 1997"
+Jurassic, ,22.87,53.45,1.0,861.0,GR,N-A-f,"artificial depth, artificial values of GR, A-f - ARAEJ formation interval","de Mastos, 1997"
+Jurassic, ,22.58,55.21,1.0,861.0,GR,A-A-f,"artificial depth, artificial values of GR, A-f - ARAEJ formation interval","de Mastos, 1997"
+Jurassic, ,24.58,53.02,1.0,998.0,GR,S-T-H-J-f,"artificial depth, artificial values of GR, T-H-J-f-Tuwaiq, Hanifa, Jubaila formation interval","de Mastos, 1997"
+Jurassic, ,24.38,53.39,1.0,998.0,GR,H-T-H-J-f,"artificial depth, artificial values of GR, T-H-J-f-Tuwaiq, Hanifa, Jubaila formation interval","de Mastos, 1997"
+Jurassic, ,24.08,53.61,1.0,998.0,GR,R-T-H-J-f,"artificial depth, artificial values of GR, T-H-J-f-Tuwaiq, Hanifa, Jubaila formation interval","de Mastos, 1997"
+Jurassic, ,24.04,53.67,1.0,998.0,GR,G-T-H-J-f,"artificial depth, artificial values of GR, T-H-J-f-Tuwaiq, Hanifa, Jubaila formation interval","de Mastos, 1997"
+Jurassic, ,23.44,54.32,1.0,996.0,GR,Q-T-H-J-f,"artificial depth, artificial values of GR, T-H-J-f-Tuwaiq, Hanifa, Jubaila formation interval","de Mastos, 1997"
+Jurassic, ,23.24,54.64,1.0,998.0,GR,P-T-H-J-f,"artificial depth, artificial values of GR, T-H-J-f-Tuwaiq, Hanifa, Jubaila formation interval","de Mastos, 1997"
+Jurassic, ,22.98,54.92,1.0,998.0,GR,O-T-H-J-f,"artificial depth, artificial values of GR, T-H-J-f-Tuwaiq, Hanifa, Jubaila formation interval","de Mastos, 1997"
+Jurassic, ,22.58,55.21,4.0,997.0,GR,A-T-H-J-f,"artificial depth, artificial values of GR, T-H-J-f-Tuwaiq, Hanifa, Jubaila formation interval","de Mastos, 1997"
+Jurassic, ,26.71,49.94,0.0,2366.0,GR,Typical-Qatif-Field,artificial values of GR,"Wilson, 1995"
+Jurassic, ,26.71,49.94,0.0,2366.0,NPHI,Typical-Qatif-Field,artificial values of NPHI,"Wilson, 1995"
+Jurassic, ,26.71,49.94,0.0,2366.0,RHOB,Typical-Qatif-Field,artificial values of RHOB,"Wilson, 1995"
+Jurassic, ,24.79,49.63,0.0,350.0,GR,E,"artificial depth, artificial values of data","Lindsay,2015"
+Jurassic, ,24.79,49.63,0.0,350.0,RHOB,E,"artificial depth, artificial values of data","Lindsay,2015"
+Jurassic, ,24.58,49.98,0.0,500.0,GR,G,"artificial depth, artificial values of data","Lindsay,2015"
+Jurassic, ,24.58,49.98,0.0,500.0,RHOB,G,"artificial depth, artificial values of data","Lindsay,2015"
+Jurassic, ,24.77,50.19,0.0,500.0,GR,H,"artificial depth, artificial values of data","Lindsay,2015"
+Jurassic, ,24.77,50.19,0.0,500.0,RHOB,H,"artificial depth, artificial values of data","Lindsay,2015"
+Jurassic, ,24.77,50.31,0.0,500.0,GR,F,"artificial depth, artificial values of data","Lindsay,2015"
+Jurassic, ,24.77,50.31,0.0,500.0,RHOB,F,"artificial depth, artificial values of data","Lindsay,2015"
+Jurassic, ,24.66,52.79,0.0,1000.0,GR,A,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.66,52.79,0.0,1000.0,NPHI,A,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.66,52.79,0.0,1000.0,RHOB,A,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.66,52.79,0.0,1000.0,SONIC,A,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.61,53.02,0.0,1000.0,GR,B,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.61,53.02,0.0,1000.0,NPHI,B,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.61,53.02,0.0,1000.0,RHOB,B,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.61,53.02,0.0,1000.0,SONIC,B,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.83,53.21,0.0,1000.0,GR,C,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.83,53.21,0.0,1000.0,NPHI,C,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.83,53.21,0.0,1000.0,RHOB,C,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.83,53.21,0.0,1000.0,SONIC,C,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.95,53.25,0.0,1000.0,GR,D,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.95,53.25,0.0,1000.0,NPHI,D,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.95,53.25,0.0,1000.0,RHOB,D,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,24.95,53.25,0.0,1000.0,SONIC,D,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.03,53.28,0.0,1000.0,GR,E,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.03,53.28,0.0,1000.0,NPHI,E,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.03,53.28,0.0,1000.0,RHOB,E,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.03,53.28,0.0,1000.0,SONIC,E,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.16,53.62,0.0,1000.0,GR,I,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.16,53.62,0.0,1000.0,NPHI,I,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.16,53.62,0.0,1000.0,RHOB,I,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.16,53.62,0.0,1000.0,SONIC,I,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.03,53.54,0.0,1000.0,GR,G,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.03,53.54,0.0,1000.0,NPHI,G,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Jurassic, ,25.03,53.54,0.0,1000.0,RHOB,G,artificial depth,"Al-Suwaidi and Aziz , GeoArabia 2002"
+Cambrian_Neogene, ,36.66,43.05,0.0,18537.0,GR,1,artificial depth,Liu et al 2017 N Iraq (Kurdistan)
+Cambrian_Neogene, ,36.66,43.05,0.0,18537.0,RESD,1,artificial depth,Liu et al 2017 N Iraq (Kurdistan)
+Cambrian_Neogene, ,36.66,43.05,0.0,18537.0,RHOB,1,artificial depth,Liu et al 2017 N Iraq (Kurdistan)
+Cambrian_Neogene, ,36.66,43.05,0.0,18537.0,SP,1,artificial depth,Liu et al 2017 N Iraq (Kurdistan)
+Jurassic, ,24.78,49.61,0.0,1000.0,GR,A,"artificial depth,artificial values of GR","Hakami et al.,2016"
+Jurassic, ,24.78,49.61,0.0,1000.0,RHOB,A,"artificial depth,artificial values of RHOB","Hakami et al.,2016"
+Jurassic, ,24.75,50.27,0.0,1000.0,GR,B,"artificial depth,artificial values of GR","Hakami et al.,2016"
+Jurassic, ,24.75,50.27,0.0,1000.0,RHOB,B,"artificial depth,artificial values of RHOB","Hakami et al.,2016"
+Jurassic, ,24.87,49.86,0.0,1000.0,GR,C,"artificial depth,artificial values of GR","Hakami et al.,2016"
+Jurassic, ,24.87,49.86,0.0,1000.0,RHOB,C,"artificial depth,artificial values of RHOB","Hakami et al.,2016"
+Jurassic, ,24.57,49.97,0.0,1000.0,GR,D,"artificial depth, artificial values of GR","Hakami et al.,2016"
+Jurassic, ,24.57,49.97,0.0,1000.0,RHOB,D,"artificial depth, artificial values of RHOB","Hakami et al.,2016"
+Jurassic, ,25.46,49.84,0.0,1000.0,GR,E,"artificial depth, artificial values of GR","Hakami et al.,2016"
+Jurassic, ,25.46,49.84,0.0,1000.0,RHOB,E,"artificial depth, artificial values of RHOB","Hakami et al.,2016"
+Cretaceous, ,15.71,49.07,0.0,1000.0,DT,Sunah-1,artificial depth,"Davies et al., 2002"
+Cretaceous, ,15.71,49.07,0.0,1000.0,GR,Sunah-1,artificial depth,"Davies et al., 2002"
+Cretaceous, ,22.94,55.34,0.0,1000.0,DT,Lekhwair-7,artificial depth,"Davies et al., 2002"
+Cretaceous, ,22.94,55.34,0.0,1000.0,GNT,Lekhwair-7,artificial depth,"Davies et al., 2002"
+Cretaceous, ,22.94,55.34,0.0,1000.0,GR,Lekhwair-7,artificial depth,"Davies et al., 2002"
+Cretaceous, ,22.94,55.34,0.0,1000.0,RHOB,Lekhwair-7,artificial depth,"Davies et al., 2002"
+Ordovican_Silurian_Cretaceous_Paleogene, ,30.71,37.49,7.4,5009.4,DT,WS-07,Composition log,Jordan wells
+Ordovican_Silurian_Cretaceous_Paleogene, ,30.71,37.49,7.4,5009.4,GR,WS-07,Composition log,Jordan wells
+Ordovican_Silurian_Cretaceous_Paleogene, ,30.65,37.59,0.1,5866.6,DT,WS-04,Composition log,Jordan wells
+Ordovican_Silurian_Cretaceous_Paleogene, ,30.65,37.59,0.1,5866.6,GR,WS-04,Composition log,Jordan wells
+Ordovican_Silurian_Cretaceous_Paleogene, ,30.65,37.59,0.1,5866.6,SFLU,WS-04,Composition log,Jordan wells
+Ordovican_Silurian_Cretaceous_Paleogene, ,30.65,37.59,0.1,5866.6,SP,WS-04,Composition log,Jordan wells
+Cambrian_Ordovican_Triassic_Cretaceous_Paleogene_Pleistocene, ,31.56,36.89,5.0,12264.1,DT,WG-02,Composition log,Jordan wells
+Cambrian_Ordovican_Triassic_Cretaceous_Paleogene_Pleistocene, ,31.56,36.89,5.0,12264.1,GR,WG-02,Composition log,Jordan wells
+Cambrian_Ordovican_Triassic_Cretaceous_Paleogene_Pleistocene, ,31.56,36.89,5.0,12264.1,SP,WG-02,Composition log,Jordan wells
+Ordovican_Triassic_Cretaceous_Paleogene, ,31.26,37.15,65.6,6069.4,DT,SQ-1,Composition log,Jordan wells
+Ordovican_Triassic_Cretaceous_Paleogene, ,31.26,37.15,65.6,6069.4,GR,SQ-1,Composition log,Jordan wells
+Ordovican_Triassic_Cretaceous_Paleogene, ,31.26,37.15,65.6,6069.4,SP,SQ-1,Composition log,Jordan wells
+Ordovican_Permian_Triassic_Jurassic_Cretaceous_Paleogene, ,32.76,37.73,0.0,10614.0,DT,RH-02,Composition log,Jordan wells
+Ordovican_Permian_Triassic_Jurassic_Cretaceous_Paleogene, ,32.76,37.73,0.0,10614.0,GR,RH-02,Composition log,Jordan wells
+Ordovican_Silurian_Permian_Triassic_Jurassic_Cretaceous_Paleogene, ,32.66,38.21,0.0,10417.0,DT,RH-01,Composition log,Jordan wells
+Ordovican_Silurian_Permian_Triassic_Jurassic_Cretaceous_Paleogene, ,32.66,38.21,0.0,10417.0,GR,RH-01,Composition log,Jordan wells
+Ordovican_Silurian_Permian_Triassic_Jurassic_Cretaceous_Paleogene, ,32.66,38.21,0.0,10417.0,SP,RH-01,Composition log,Jordan wells
+Cambrian_Permian_Triassic_Jurassic_Cretaceous_Paleogene, ,32.56,35.98,0.0,12221.6,SGR,NH-2,Composition log,Jordan wells
+Cambrian_Permian_Triassic_Jurassic_Cretaceous_Paleogene, ,32.56,35.98,0.0,12221.6,DT,NH-2,Composition log,Jordan wells
+Cretaceous_Paleogene_Pleistocene, ,31.78,37.05,4.9,11029.0,DT,HO-2,Composition log,Jordan wells
+Cretaceous_Paleogene_Pleistocene, ,31.78,37.05,4.9,11029.0,GR,HO-2,Composition log,Jordan wells
+Cretaceous_Paleogene_Pleistocene, ,31.69,37.19,0.0,10663.0,DT,HZ-2,Composition log,Jordan wells
+Cretaceous_Paleogene_Pleistocene, ,31.69,37.19,0.0,10663.0,GR,HZ-2,Composition log,Jordan wells
+Cretaceous_Paleogene_Pleistocene, ,31.69,37.19,0.0,10663.0,SP,HZ-2,Composition log,Jordan wells
+Paleozoic_Triassic_Jurassic_Cretaceous_Paleogene_Pleistocene, ,31.69,37.22,1.8,13024.5,DT,HZ-4,Composition log,Jordan wells
+Paleozoic_Triassic_Jurassic_Cretaceous_Paleogene_Pleistocene, ,31.69,37.22,1.8,13024.5,GR,HZ-4,Composition log,Jordan wells
+Paleozoic_Triassic_Jurassic_Cretaceous_Paleogene_Pleistocene, ,31.69,37.22,1.8,13024.5,SP,HZ-4,Composition log,Jordan wells
+Ordovician_Triassic_Jurassic_Cretaceous, ,32.24,35.73,43.0,12467.6,DT,AJ-1,Composition log,Jordan wells
+Ordovician_Triassic_Jurassic_Cretaceous, ,32.24,35.73,43.0,12467.6,GR,AJ-1,Composition log,Jordan wells
+Ordovician_Triassic_Jurassic_Cretaceous, ,32.24,35.73,43.0,12467.6,SP,AJ-1,Composition log,Jordan wells
+ , ,32.48,37.44,9.3,9259.3,DT,QA-1,Composition log,Jordan wells
+ , ,32.48,37.44,9.3,9259.3,GR,QA-1,Composition log,Jordan wells
+ , ,32.48,37.44,9.3,9259.3,SP,QA-1,Composition log,Jordan wells
+Cambrian_Ordovician_Silurian_Cretaceous_Paleogene, ,31.13,37.31,0.0,10925.5,DT,WS-2,Composition log,Jordan wells
+Cambrian_Ordovician_Silurian_Cretaceous_Paleogene, ,31.13,37.31,0.0,10925.5,GR,WS-2,Composition log,Jordan wells
+Cambrian_Ordovician_Silurian_Cretaceous_Paleogene, ,31.13,37.31,0.0,10925.5,SP,WS-2,Composition log,Jordan wells
+Cambrian_Ordovician_Silurian_Cretaceous, ,30.32,36.52,0.0,13220.0,DT,JF-1,Composition log,Jordan wells
+Cambrian_Ordovician_Silurian_Cretaceous, ,30.32,36.52,0.0,13220.0,GR,JF-1,Composition log,Jordan wells
+Cambrian_Ordovician_Silurian_Cretaceous, ,30.32,36.52,0.0,13220.0,SP,JF-1,Composition log,Jordan wells
+Jurassic_Cretaceous, ,24.53,52.41,9864.0,10638.0,GR,X,Composition log,"Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,24.53,52.41,9864.0,10638.0,NPHI,X,Composition log,"Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,24.53,52.41,9864.0,10638.0,RHOB,X,Composition log,"Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,25.01,52.93,9276.0,9809.5,GR,Y,"['Composition log, artificial depth starts at 9550 feet']","Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,25.01,52.93,9276.0,9809.5,NPHI,Y,"['Composition log, artificial depth starts at 9550 feet']","Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,25.01,52.93,9276.0,9809.5,RHOB,Y,"['Composition log, artificial depth starts at 9550 feet']","Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,25.01,53.24,9648.0,10530.0,GR,Z,"Composition log, artificial depth starts at 10107 feet","Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,25.01,53.24,9648.0,10530.0,NPHI,Z,"Composition log, artificial depth starts at 10107 feet","Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,25.01,53.24,9648.0,10530.0,RHOB,Z,"Composition log, artificial depth starts at 10107 feet","Azer and Ross,Sequence Stratigraphy of the Arab A to C Members and Hith Formation, Offshore Abu Dhabi"
+Jurassic_Cretaceous, ,24.68,52.19,0.0,1300.0,GR,A1,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.68,52.19,0.0,1300.0,NPHI,A1,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.68,52.19,0.0,1300.0,RHOB,A1,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.49,52.44,0.0,1500.0,GR,A2,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.49,52.44,0.0,1500.0,NPHI,A2,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.49,52.44,0.0,1500.0,RHOB,A2,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.45,52.97,0.0,1349.5,GR,A3,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.45,52.97,0.0,1349.5,NPHI,A3,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.45,52.97,0.0,1349.5,RHOB,A3,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.52,53.19,0.0,1169.5,GR,A4,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.52,53.19,0.0,1169.5,NPHI,A4,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.52,53.19,0.0,1169.5,RHOB,A4,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.36,53.43,0.0,1124.5,GR,A5,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.36,53.43,0.0,1124.5,NPHI,A5,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.36,53.43,0.0,1124.5,RHOB,A5,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,23.73,53.67,0.0,1136.0,GR,A6,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,23.73,53.67,0.0,1136.0,NPHI,A6,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,23.73,53.67,0.0,1136.0,RHOB,A6,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.51,53.14,0.0,1475.0,GR,B1,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.51,53.14,0.0,1475.0,NPHI,B1,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.51,53.14,0.0,1475.0,RHOB,B1,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.31,53.52,0.0,1440.0,GR,B2,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.31,53.52,0.0,1440.0,NPHI,B2,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.31,53.52,0.0,1440.0,RHOB,B2,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.15,53.24,0.0,1460.0,GR,B3,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.15,53.24,0.0,1460.0,NPHI,B3,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,25.15,53.24,0.0,1460.0,RHOB,B3,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.92,53.26,0.0,1240.0,GR,B4,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.92,53.26,0.0,1240.0,NPHI,B4,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.92,53.26,0.0,1240.0,RHOB,B4,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.71,53.19,0.0,1250.0,GR,B5,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.71,53.19,0.0,1250.0,NPHI,B5,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.71,53.19,0.0,1250.0,RHOB,B5,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.48,52.91,0.0,1600.0,GR,B6,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.48,52.91,0.0,1600.0,NPHI,B6,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.48,52.91,0.0,1600.0,RHOB,B6,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.15,52.49,0.0,1700.0,GR,B7,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.15,52.49,0.0,1700.0,NPHI,B7,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic_Cretaceous, ,24.15,52.49,0.0,1700.0,RHOB,B7,Artificial depth,"Al Silwadi and Kirkham, GeoArabia, Vol. 1, No. 1, 1996"
+Jurassic, ,23.65,53.55,11201.3,11682.9,GR,X01, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.65,53.55,11201.3,11682.9,NPHI,X01, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.65,53.55,11201.3,11682.9,RHOB,X01, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.84,53.71,10548.4,11026.9,GR,X16, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.84,53.71,10548.4,11026.9,NPHI,X16, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.84,53.71,10548.4,11026.9,RHOB,X16, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.79,53.62,10860.1,11336.6,GR,X27, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.79,53.62,10860.1,11336.6,NPHI,X27, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.79,53.62,10860.1,11336.6,RHOB,X27, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.83,53.68,10535.3,11017.3,GR,X61, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.83,53.68,10535.3,11017.3,NPHI,X61, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,23.83,53.68,10535.3,11017.3,RHOB,X61, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,24.03,53.83,10856.8,11335.9,GR,X89, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,24.03,53.83,10856.8,11335.9,NPHI,X89, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic, ,24.03,53.83,10856.8,11335.9,RHOB,X89, ,"Grotsch and Suwaina, GeoArabia, Vol. 8, No. 1, 2003"
+Jurassic_Cretaceous, ,24.48,46.99,0.0,375.5,GR,DH,Outcrop. Border between periods with '?',"Wolpert, GeoArabia, 2015, no.4"
+Jurassic_Cretaceous, ,24.47,47.01,0.0,306.0,GR,KW,Outcrop. Border between periods with '?',"Wolpert, GeoArabia, 2015, no.4"
+Jurassic_Cretaceous, ,24.41,47.11,0.0,128.0,GR,KP,Outcrop. Border between periods with '?',"Wolpert, GeoArabia, 2015, no.4"
+Jurassic_Cretaceous, ,24.38,47.12,0.0,302.0,GR,AH,Outcrop. Border between periods with '?',"Wolpert, GeoArabia, 2015, no.4"
+Cretaceous, ,24.23,46.99,0.0,258.0,GR,NG,Outcrop. Border between periods with '?',"Wolpert, GeoArabia, 2015, no.4"
+Cretaceous, ,23.84,47.19,0.0,163.5,GR,FI,Outcrop. Border between periods with '?',"Wolpert, GeoArabia, 2015, no.4"
+Jurassic_Cretaceous, ,24.49,46.99,0.0,55.0,GR,EH,Outcrop. Border between periods with '?',"Wolpert, GeoArabia, 2015, no.4"
+Cretaceous, ,23.84,47.21,1.0,9.0,GR,SI,Outcrop. Border between periods with '?',"Wolpert, GeoArabia, 2015, no.4"
+Cretaceous, ,24.51,47.05,0.0,21.0,GR,HL-1,Outcrop,"Wolpert, GeoArabia, 2015, no.4"
+Cretaceous, ,24.52,47.06,0.0,35.0,GR,HL-2,Outcrop,"Wolpert, GeoArabia, 2015, no.4"
+Cretaceous, ,24.53,47.07,0.0,34.5,GR,HL-3,Outcrop,"Wolpert, GeoArabia, 2015, no.4"
+Cretaceous, ,24.54,47.08,0.0,16.0,GR,HL-4,Outcrop,"Wolpert, GeoArabia, 2015, no.4"
+Cretaceous, ,31.54,34.81,820.2,2047.2,GR,Aderet,Outcrop,"Aaron M., Sarit A., Chronostratigraphy of the Upper Cretaceous high productivity sequence of the southern Tethys, Israel"
+Cretaceous, ,31.54,34.81,820.2,2047.2,TOC,Aderet,Outcrop,"Aaron M., Sarit A., Chronostratigraphy of the Upper Cretaceous high productivity sequence of the southern Tethys, Israel"
+Cretaceous, ,31.28,34.89,1164.8,1571.5,GR,NS17,Outcrop,"Aaron M., Sarit A., Chronostratigraphy of the Upper Cretaceous high productivity sequence of the southern Tethys, Israel"
+Cretaceous, ,31.19,34.92,1607.7,1837.1,GR,NS23,Outcrop,"Aaron M., Sarit A., Chronostratigraphy of the Upper Cretaceous high productivity sequence of the southern Tethys, Israel"
+Cretaceous, ,31.14,34.94,0.0,360.8,GR,M8,Outcrop,"Aaron M., Sarit A., Chronostratigraphy of the Upper Cretaceous high productivity sequence of the southern Tethys, Israel"
+Cretaceous, ,30.87,35.02,984.3,1345.1,GR,PAMA,Outcrop,"Aaron M., Sarit A., Chronostratigraphy of the Upper Cretaceous high productivity sequence of the southern Tethys, Israel"
