@@ -7,7 +7,7 @@ import streamlit as st
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 from langchain_experimental.agents import create_pandas_dataframe_agent
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
-from langchain_openai import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_chroma import Chroma
 from langchain.chains import RetrievalQA, ConversationalRetrievalChain
 from langchain.chains.qa_with_sources import load_qa_with_sources_chain
@@ -15,7 +15,6 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.chains.llm import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.memory import ConversationBufferWindowMemory
-from langchain_openai import ChatOpenAI
 from langchain.llms import OpenAI
 from langchain.schema import Document
 
@@ -72,13 +71,13 @@ else:
 #---------------------------------------------------------------------------   
 
 # Initialize Vector Store
-vector_store = Chroma(embedding_function=embeddings, persist_directory=VECTOR_STORE_DIR)
+vector_store = Chroma(persist_directory=VECTOR_STORE_DIR, embedding_function=embeddings)
 
 # Helper Function: Check if Vector Store is Empty
 def is_vector_store_empty(vector_store):
     try:
         retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={'k': 2})
-        documents = retriever.get_relevant_documents("")
+        documents = retriever.invoke("")
         return len(documents) == 0
     except Exception:
         return True
@@ -124,17 +123,6 @@ else:
     )
     vector_store_empty = True
 
-# Check if vector store is empty
-def is_vector_store_empty(vector_store):
-    try:
-        retriever = vector_store.as_retriever(search_type="mmr",
-                                   search_kwargs={'k': 2, 'fetch_k': 50}
-                                    )
-         
-        documents = retriever.get_relevant_documents("")
-        return len(documents) == 0
-    except Exception:
-        return True
 
 if not vector_store_empty:
     vector_store_empty = is_vector_store_empty(vector_store)
