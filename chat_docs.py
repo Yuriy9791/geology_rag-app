@@ -1,16 +1,10 @@
 import os
-from langchain_experimental.agents import create_pandas_dataframe_agent
-# Set OpenAI API Key
-
-
 from io import BytesIO
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-
 import streamlit as st
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
-
 from langchain_experimental.agents import create_pandas_dataframe_agent
 from langchain.document_loaders import PyPDFLoader, TextLoader
 from langchain.embeddings import OpenAIEmbeddings
